@@ -1,0 +1,6 @@
+apt install git
+git clone https://github.com/ZechBron/zVirus-Gen.git
+cd zVirus-Gen
+bash setup.sh
+
+bash zVirus
