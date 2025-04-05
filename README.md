@@ -17,7 +17,7 @@ https://github.com/Argisht44/android.git
 ▫️ chmod 777 infinite-bomber
 
 
- ./infinite-+79095029775
+ ./infinite-+79967009892
 
 
 
